@@ -7,3 +7,4 @@ Value omci (\S+\s+\S+|\Snone\S)
 
 Start
   ^\s+${id}\s+${name}\s+${enabled}\s${model}\s+${serial}\s+${omci} -> Record
+  ^<SPACE> for next page, <CR> for next line, A for all, Q to quit\s+${id}\s+${name}\s+${enabled}\s${model}\s+${serial}\s+${omci} -> Record

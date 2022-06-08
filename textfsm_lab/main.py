@@ -12,11 +12,11 @@ file = "onu_showall_slot.txt"
 
 with open(f'{files_path}/{file}') as f:
     output = f.read()
-print(output)
+# print(output)
 with open(f"{templates_path}/{file.replace('.txt', '.textfsm')}") as t:
     template = textfsm.TextFSM(t)
 fsm_result = template.ParseText(output)
-print(f'Headers: {template.header}')
+# print(f'Headers: {template.header}')
 
 showall = []
 for row in fsm_result:
