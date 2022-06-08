@@ -1,0 +1,13 @@
+Orig
+Type     VLAN/SLAN  VLAN/SLAN      Physical                  Bridge                              St  Table Data
+---------------------------------------------------------------------------------------------------------------------
+tls                 Tagged  2041   1/1/1/4/gpononu           1-1-1-1164-gponport-2041/bridge     UP  D e0:69:95:ed:39:5a
+                                                                                                     D e0:69:95:ed:38:d6
+                                                                                                     D e0:69:95:a5:72:f9
+                                                                                                     D e0:69:95:a5:72:c8
+                                                                                                     D b0:95:75:b9:b5:53
+                                                                                                     D 5c:d9:98:be:8a:e4
+                                                                                                     D 50:81:40:e5:44:01
+                                                                                                     D 50:81:40:e5:24:58
+tls                 Tagged  2041   1/1/2/0/eth               1-1-2-0-eth-2041/bridge             UP  D 6c:41:6a:2f:e2:80
+2 Bridge Interfaces displayed

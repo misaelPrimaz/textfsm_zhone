@@ -1,0 +1,162 @@
+Orig
+Type     VLAN/SLAN  VLAN/SLAN      Physical                  Bridge                              St  Table Data
+---------------------------------------------------------------------------------------------------------------------
+tls                 Tagged  2004   1/1/1/2/gpononu           1-1-1-1143-gponport-2004/bridge     DWN 
+tls                 Tagged  2022   1/1/1/2/gpononu           1-1-1-1102-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/2/gpononu           1-1-1-2102-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/3/gpononu           1-1-1-1163-gponport-2002/bridge     DWN 
+tls                 Tagged  2022   1/1/1/3/gpononu           1-1-1-1103-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/3/gpononu           1-1-1-2103-gponport-3390/bridge     DWN 
+tls                 Tagged  2041   1/1/1/4/gpononu           1-1-1-1164-gponport-2041/bridge     UP  D e0:69:95:ed:39:5a
+                                                                                                     D e0:69:95:ed:38:d6
+                                                                                                     D e0:69:95:a5:72:f9
+                                                                                                     D e0:69:95:a5:72:c8
+                                                                                                     D b0:95:75:b9:b5:53
+                                                                                                     D 5c:d9:98:be:8a:e4
+                                                                                                     D 50:81:40:e5:44:01
+                                                                                                     D 50:81:40:e5:24:58
+tls                 Tagged  3390   1/1/1/4/gpononu           1-1-1-2104-gponport-3390/bridge     UP  D 3a:02:71:3a:c5:00
+tls                 Tagged  2002   1/1/1/5/gpononu           1-1-1-1165-gponport-2002/bridge     DWN 
+<SPACE> for next page, <CR> for next line, A for all, Q to quit                                                               tls                 Tagged  2004   1/1/1/5/gpononu           1-1-1-1181-gponport-2004/bridge     DWN 
+tls                 Tagged  2022   1/1/1/5/gpononu           1-1-1-1191-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/5/gpononu           1-1-1-2105-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/6/gpononu           1-1-1-1166-gponport-2002/bridge     DWN 
+tls                 Tagged  2022   1/1/1/6/gpononu           1-1-1-1461-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/6/gpononu           1-1-1-2106-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/7/gpononu           1-1-1-1363-gponport-2002/bridge     DWN 
+tls                 Tagged  2002   1/1/1/7/gpononu           1-1-1-1361-gponport-2002/bridge     DWN 
+tls                 Tagged  2022   1/1/1/7/gpononu           1-1-1-1364-gponport-2022/bridge     DWN 
+tls                 Tagged  2022   1/1/1/7/gpononu           1-1-1-1362-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/7/gpononu           1-1-1-2107-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/8/gpononu           1-1-1-1168-gponport-2002/bridge     DWN 
+tls                 Tagged  3390   1/1/1/8/gpononu           1-1-1-2108-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/9/gpononu           1-1-1-1169-gponport-2002/bridge     DWN 
+tls                 Tagged  3390   1/1/1/9/gpononu           1-1-1-2109-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/10/gpononu          1-1-1-1711-gponport-2002/bridge     DWN 
+tls                 Tagged  2013   1/1/1/10/gpononu          1-1-1-1711-gponport-2013/bridge     DWN 
+tls                 Tagged  2013   1/1/1/10/gpononu          1-1-1-1713-gponport-2013/bridge     DWN 
+tls                 Tagged  2022   1/1/1/10/gpononu          1-1-1-1711-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/10/gpononu          1-1-1-2110-gponport-3390/bridge     DWN 
+tls                 Tagged  1980   1/1/1/11/gpononu          1-1-1-1814-gponport-1980/bridge     DWN 
+tls                 Tagged  1980   1/1/1/11/gpononu          1-1-1-1811-gponport-1980/bridge     DWN 
+tls                 Tagged  3373   1/1/1/11/gpononu          1-1-1-1813-gponport-3373/bridge     DWN 
+tls                 Tagged  3390   1/1/1/11/gpononu          1-1-1-2111-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/12/gpononu          1-1-1-1453-gponport-2002/bridge     DWN 
+tls                 Tagged  2030   1/1/1/12/gpononu          1-1-1-1452-gponport-2030/bridge     DWN 
+tls                 Tagged  2030   1/1/1/12/gpononu          1-1-1-1451-gponport-2030/bridge     DWN 
+tls                 Tagged  3390   1/1/1/12/gpononu          1-1-1-2112-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/13/gpononu          1-1-1-1763-gponport-2002/bridge     DWN 
+tls                 Tagged  2002   1/1/1/13/gpononu          1-1-1-1761-gponport-2002/bridge     DWN 
+tls                 Tagged  2022   1/1/1/13/gpononu          1-1-1-1703-gponport-2022/bridge     DWN 
+tls                 Tagged  2022   1/1/1/13/gpononu          1-1-1-1701-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/13/gpononu          1-1-1-2113-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/14/gpononu          1-1-1-1251-gponport-2002/bridge     DWN 
+tls                 Tagged  2011   1/1/1/14/gpononu          1-1-1-1261-gponport-2011/bridge     DWN 
+tls                 Tagged  3390   1/1/1/14/gpononu          1-1-1-2143-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/15/gpononu          1-1-1-1241-gponport-2002/bridge     DWN 
+tls                 Tagged  2022   1/1/1/15/gpononu          1-1-1-1242-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/15/gpononu          1-1-1-2114-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/16/gpononu          1-1-1-1231-gponport-2002/bridge     DWN 
+tls                 Tagged  2022   1/1/1/16/gpononu          1-1-1-1232-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/16/gpononu          1-1-1-2116-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/1/17/gpononu          1-1-1-1331-gponport-2002/bridge     DWN 
+tls                 Tagged  2022   1/1/1/17/gpononu          1-1-1-1332-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/1/17/gpononu          1-1-1-2117-gponport-3390/bridge     DWN 
+tls                 Tagged  99     1/1/2/0/eth               1-1-2-0-eth-99/bridge               UP  
+tls                 Tagged  219    1/1/2/0/eth               1-1-2-0-eth-219/bridge              UP  D 00:04:96:97:e6:04
+tls                 Tagged  1980   1/1/2/0/eth               1-1-2-0-eth-1980/bridge             UP  
+tls                 Tagged  2002   1/1/2/0/eth               1-1-2-0-eth-2002/bridge             UP  D c0:a0:bb:77:24:a0
+                                                                                                     D 6c:41:6a:2f:e2:80
+                                                                                                     D 64:1c:67:64:44:32
+                                                                                                     D 00:04:96:1a:c4:f0
+tls                 Tagged  2004   1/1/2/0/eth               1-1-2-0-eth-2004/bridge             UP  D fc:4d:d4:4d:34:a6
+                                                                                                     D fc:4d:d4:4d:31:2c
+                                                                                                     D fc:4d:d4:4d:0f:66
+                                                                                                     D fa:52:52:24:96:3a
+                                                                                                     D f0:4d:a2:e4:c1:09
+                                                                                                     D f0:4d:a2:e4:c0:ce
+                                                                                                     D f0:4d:a2:e4:c0:9b
+                                                                                                     D f0:4d:a2:e4:c0:5d
+                                                                                                     D ee:25:31:07:41:15
+                                                                                                     D ea:31:65:04:32:d2
+                                                                                                     D d4:5d:df:05:80:44
+                                                                                                     D d4:5d:df:05:7b:5f
+                                                                                                     D d4:5d:df:05:75:41
+                                                                                                     D ba:bc:93:af:15:e1
+                                                                                                     D b0:70:2d:06:6d:7e
+                                                                                                     D a0:ac:69:ea:32:5e
+                                                                                                     D 9e:26:af:46:4c:bc
+                                                                                                     D 8c:0f:6f:7b:da:53
+                                                                                                     D 84:25:19:2b:0c:a3
+                                                                                                     D 84:25:19:2a:63:cb
+                                                                                                     D 78:2b:cb:bd:72:73
+                                                                                                     D 76:07:42:39:42:6a
+                                                                                                     D 74:d4:35:f0:01:29
+                                                                                                     D 70:fd:46:1f:16:1c
+                                                                                                     D 70:bb:e9:a7:a2:55
+                                                                                                     D 70:71:bc:07:7d:e3
+                                                                                                     D 6c:41:6a:2f:e2:80
+                                                                                                     D 64:32:a8:22:52:40
+                                                                                                     D 64:32:a8:22:4e:5d
+                                                                                                     D 64:1c:67:64:45:0c
+                                                                                                     D 64:1c:67:64:44:93
+                                                                                                     D 64:1c:67:64:44:39
+                                                                                                     D 64:1c:67:64:44:30
+                                                                                                     D 64:1c:67:64:43:e0
+                                                                                                     D 64:1c:67:64:35:b0
+                                                                                                     D 58:d9:c3:44:de:6a
+                                                                                                     D 38:9a:f6:ed:82:f5
+                                                                                                     D 30:cb:f8:b4:07:5a
+                                                                                                     D 30:4b:07:aa:b0:40
+                                                                                                     D 2c:d0:66:89:9e:bc
+                                                                                                     D 1c:7e:e5:36:2b:90
+                                                                                                     D 18:0d:2c:e6:9d:43
+                                                                                                     D 12:82:37:e2:67:c5
+                                                                                                     D 10:05:01:9c:74:7d
+                                                                                                     D 0a:aa:4f:dd:ec:c9
+                                                                                                     D 08:8c:2c:e7:d8:d0
+                                                                                                     D 04:e5:98:91:08:ae
+                                                                                                     D 00:24:1d:f3:d0:31
+                                                                                                     D 00:21:b7:8e:f3:8c
+                                                                                                     D 00:04:96:1a:c4:f0
+tls                 Tagged  2011   1/1/2/0/eth               1-1-2-0-eth-2011/bridge             UP  
+tls                 Tagged  2013   1/1/2/0/eth               1-1-2-0-eth-2013/bridge             UP  D 6c:41:6a:2f:e2:80
+tls                 Tagged  2022   1/1/2/0/eth               1-1-2-0-eth-2022/bridge             UP  D fa:52:52:24:96:3a
+                                                                                                     D f8:d1:11:bb:2b:57
+                                                                                                     D d6:40:12:af:40:96
+                                                                                                     D c6:b2:93:da:cb:51
+                                                                                                     D ba:bc:93:af:15:e1
+                                                                                                     D b8:1d:aa:9f:0e:b0
+                                                                                                     D b4:c4:fc:52:bb:cb
+                                                                                                     D b0:70:2d:06:6d:7e
+                                                                                                     D a8:5c:2c:07:5e:a4
+                                                                                                     D 9e:26:af:46:4c:bc
+                                                                                                     D 76:07:42:39:42:6a
+                                                                                                     D 6c:41:6a:2f:e2:80
+                                                                                                     D 60:1d:91:7b:72:8e
+                                                                                                     D 5e:42:4c:0d:ad:2d
+                                                                                                     D 5c:c9:d3:7b:06:50
+                                                                                                     D 48:51:69:7a:89:62
+                                                                                                     D 42:6d:42:61:b9:0f
+                                                                                                     D 3a:09:c0:37:7c:78
+                                                                                                     D 30:cb:f8:b4:07:5a
+                                                                                                     D 04:e5:98:91:08:ae
+                                                                                                     D 00:b8:b6:39:0f:f7
+                                                                                                     D 00:22:57:c6:5f:d1
+tls                 Tagged  2030   1/1/2/0/eth               1-1-2-0-eth-2030/bridge             UP  D 6c:41:6a:2f:e2:80
+tls                 Tagged  2040   1/1/2/0/eth               1-1-2-0-eth-2040/bridge             UP  
+tls                 Tagged  2041   1/1/2/0/eth               1-1-2-0-eth-2041/bridge             UP  D 6c:41:6a:2f:e2:80
+tls                 Tagged  3373   1/1/2/0/eth               1-1-2-0-eth-3373/bridge             UP  
+tls                 Tagged  3374   1/1/2/0/eth               1-1-2-0-eth-3374/bridge             UP  
+tls                 Tagged  3390   1/1/2/0/eth               1-1-2-0-eth-3390/bridge             UP  D 6c:41:6a:2f:e2:80
+tls                 Tagged  2002   1/1/2/1/gpononu           1-1-2-1266-gponport-2002/bridge     DWN 
+tls                 Tagged  2040   1/1/2/1/gpononu           1-1-2-1203-gponport-2040/bridge     DWN 
+tls                 Tagged  2040   1/1/2/1/gpononu           1-1-2-1201-gponport-2040/bridge     DWN 
+tls                 Tagged  3390   1/1/2/1/gpononu           1-1-2-2201-gponport-3390/bridge     DWN 
+tls                 Tagged  2002   1/1/2/2/gpononu           1-1-2-1341-gponport-2002/bridge     DWN 
+tls                 Tagged  2022   1/1/2/2/gpononu           1-1-2-1342-gponport-2022/bridge     DWN 
+tls                 Tagged  3390   1/1/2/2/gpononu           1-1-2-2119-gponport-3390/bridge     DWN 
+tls                 Tagged  3390   1/1/3/1/gpononu           1-1-3-2311-gponport-3390/bridge     DWN 
+ipobtls             Tagged  3390   1/1/6/0/ipobridge         ipobridge-3390/bridge               UP  S 00:01:47:c7:c0:7c
+                                                                                                     S 10.255.136.2
+77 Bridge Interfaces displayed

@@ -1,0 +1,8 @@
+                                     
+          GEM  CPE     DSCP   CPE UNI
+CPE       Port UNI     to COS VLAN/SLAN VLAN/SLAN     G-VLAN MVR  Service Rg-Mode  Bridge                              ST
+----------------------------------------------------------------------------------------------------------------------------------
+1/2/0     ---- ------  ------ ----/---- Tagged  2041   ----  ---- ------- -------  1-1-2-0-eth-2041/bridge             UP 
+1/1/4     1164 eth 1   ------ ----/---- Tagged  2041   ----  ---- data    -------  1-1-1-1164-gponport-2041/bridge     UP 
+2 Bridge Interfaces displayed
+1 CPE Connections displayed

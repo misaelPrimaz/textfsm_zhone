@@ -1,0 +1,4 @@
+                                                           Download     OLT      ONT        Distance      Gpon          AutoConfig
+ID          Onu          OperStatus     ConfigState          State    Rx Power  Rx Power      (KM)       OnuStatus         State
+=== ==================== =========== ==================== =========== ========= ========= =========== ================= ===========
+  4              1-1-1-4 Up             Active            NoUpgrade   -24.4 dBm -22.5 dBm      2.0331 Active            Init       
