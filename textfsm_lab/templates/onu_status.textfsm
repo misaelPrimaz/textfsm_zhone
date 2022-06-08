@@ -1,4 +1,6 @@
-Value VLAN ('\d+')
+Value ID (\d+)
+Value ONU (\S+)
+Value OperStatus (UP|DOWN)
 
 Start
-  ^\w+\s+\S+\s-> Record
+  ^\s+${ID}\s+${ONU} -> Record
