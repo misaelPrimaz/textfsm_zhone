@@ -1,5 +1,6 @@
 import os
 import textfsm
+import json # usado apenas para visualização de dados
 
 local_path = os.path.dirname(__file__)
 files_path = f'{local_path}/outputs'
@@ -27,6 +28,10 @@ for row in fsm_result:
         d.update({template.header[i]: row[i]})
     showall.append(d)
 
-print([(registro['name'], registro['serial']) for registro in showall if registro.get('serial')])
-
+print('Lista de interfaces com FSAN:')
+print(json.dumps([(registro['name'], registro['serial']) for registro in showall if registro.get('serial')], indent=4))
+print()
+print('Lista de interfaces disponíveis para configuração')
+print(json.dumps([registro['name'] for registro in showall if not registro.get('serial')], indent=4))
+print()
 #   ^\s+${id}\s+${name}\s+${enabled}\s${model}\s+${serial}\s+${omci} -> Record
