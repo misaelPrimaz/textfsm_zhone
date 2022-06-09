@@ -1,0 +1,15 @@
+Value id (\d+)
+Value onu (\S+)
+Value operation_status (\w+)
+Value config_state (\w+)
+Value download_statte (\S+)
+Value olt_rx_power (\S+ dBm)
+Value ont_rx_power (\S+ dBm)
+Value distance (\S+)
+Value onu_status (\S+)
+Value auto_config_state (\S+)
+
+
+Start
+  ^\s+${id}\s+${onu}\s+${operation_status}\s+${config_state}\s+${download_statte}\s+${olt_rx_power}\s+${ont_rx_power}\s+${distance}\s+${onu_status}\s+${auto_config_state}\s+$$ -> Record
+  

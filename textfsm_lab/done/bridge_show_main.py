@@ -8,7 +8,7 @@ templates_path = f'{local_path}/templates'
 files = os.listdir(files_path)
 
 
-file = "show_onu_vlan.txt"
+file = "bridge_show.txt"
 
 with open(f'{files_path}/{file}') as f:
     output = f.read()
@@ -19,3 +19,6 @@ fsm_result = template.ParseText(output)
 print(f'Headers: {template.header}')
 
 print(json.dumps(fsm_result, indent=4))
+#   ^(.*)tls -> Continue.Record
+#   ^(.*)?tls\s+\S+\s+${vlan}\s+${phisical}\s+${bridge}\s+${status}\s+(D\s+${macs})?$$
+#   ^\s+D\s+${macs}$$

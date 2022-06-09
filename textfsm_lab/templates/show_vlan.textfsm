@@ -1,4 +1,0 @@
-Value VLAN ('\d+')
-
-Start
-  ^\w+\s+\S+\s-> Record

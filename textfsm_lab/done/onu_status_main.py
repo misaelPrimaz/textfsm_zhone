@@ -8,7 +8,7 @@ templates_path = f'{local_path}/templates'
 files = os.listdir(files_path)
 
 
-file = "show_onu_vlan.txt"
+file = "onu_status.txt"
 
 with open(f'{files_path}/{file}') as f:
     output = f.read()

@@ -1,6 +1,0 @@
-Value ID (\d+)
-Value ONU (\S+)
-Value OperStatus (UP|DOWN)
-
-Start
-  ^\s+${ID}\s+${ONU} -> Record

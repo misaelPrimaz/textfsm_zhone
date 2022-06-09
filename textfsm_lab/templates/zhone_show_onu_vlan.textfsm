@@ -1,0 +1,11 @@
+Value cpe (\S+)
+Value gem_port (\S+|-+)
+Value cpe_uni ([\w\s\d]{6}|-{6})
+#Value cpe_uni ([\w\s\d-]{6})
+Value vlan (\d{4})
+Value service (\w+|-+)
+Value bridge (\S+)
+Value status (UP|DWN)
+
+Start
+  ^${cpe}\s+${gem_port}\s+${cpe_uni}\s+\S+\s\S+\/\S+\s\S+\s+${vlan}\s+\S+\s+\S+\s${service}\s+\S+\s+${bridge}\s+${status}\s+$$ -> Record

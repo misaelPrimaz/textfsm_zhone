@@ -1,0 +1,11 @@
+Value vlan (\d+)
+Value phisical (\S+)
+Value bridge (\S+)
+Value status (\S+)
+Value List macs (\S+)
+
+Start
+  ^tls -> Continue.Record
+  ^tls\s+\S+\s+${vlan}\s+${phisical}\s+${bridge}\s+${status}\s+D\s${macs}
+  ^\s+D\s${macs}
+  
