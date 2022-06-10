@@ -13,7 +13,7 @@ file = "bridge_show.txt"
 with open(f'{files_path}/{file}') as f:
     output = f.read()
 # print(output)
-with open(f"{templates_path}/{file.replace('.txt', '.textfsm')}") as t:
+with open(f"{templates_path}/zhone_{file.replace('.txt', '.textfsm')}") as t:
     template = textfsm.TextFSM(t)
 fsm_result = template.ParseText(output)
 print(f'Headers: {template.header}')

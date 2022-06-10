@@ -8,7 +8,7 @@ templates_path = f'{local_path}/templates'
 files = os.listdir(files_path)
 
 
-file = "onu_status.txt"
+file = "bridge_show_vlan.txt"
 
 with open(f'{files_path}/{file}') as f:
     output = f.read()
@@ -16,6 +16,11 @@ with open(f'{files_path}/{file}') as f:
 with open(f"{templates_path}/zhone_{file.replace('.txt', '.textfsm')}") as t:
     template = textfsm.TextFSM(t)
 fsm_result = template.ParseText(output)
-print(f'Headers: {template.header}')
 
+print(f'Headers: {template.header}')
 print(json.dumps(fsm_result, indent=4))
+
+
+#   ^tls -> Continue.Record
+#   ^tls\s+\S+\s+${vlan}\s+${phisical}\s+${bridge}\s+${status}\s+D\s${macs}
+#   ^\s+D\s${macs}

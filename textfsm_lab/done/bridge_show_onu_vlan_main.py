@@ -8,11 +8,11 @@ templates_path = f'{local_path}/templates'
 files = os.listdir(files_path)
 
 
-file = "onu_status.txt"
+file = "bridge_show_onu_vlan.txt"
 
 with open(f'{files_path}/{file}') as f:
     output = f.read()
-# print(output)
+# print(output)s
 with open(f"{templates_path}/zhone_{file.replace('.txt', '.textfsm')}") as t:
     template = textfsm.TextFSM(t)
 fsm_result = template.ParseText(output)
